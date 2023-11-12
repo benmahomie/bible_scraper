@@ -4,7 +4,7 @@ This software is a Python-based web scraper designed for extracting text from bi
 
 The motivation behind this software is to provide an efficient and automated method for collecting biblical texts in various translations. This tool is particularly useful for researchers and students who require an in-depth comparative study of biblical passages.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/TvM8HcwIFCE)
 
 # Development Environment
 
